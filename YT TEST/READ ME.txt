@@ -1,0 +1,2 @@
+-do not move any of this files out of the folder or make of it CSS or JS its may cause errors if you do that
+-delete that if you read it and you dont need me
